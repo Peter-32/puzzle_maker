@@ -7,7 +7,7 @@ down_5a is 1161
 down_5b is 638228
 down_7a is 484182
 down_7b is 821
-down_8a is 8909
+down_8a is 5909
 down_8b is 33814
 down_9a is 3390
 down_9b is 713
